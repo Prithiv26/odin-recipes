@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(80, 5, 5);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(2, 2, 2);
+    color: rgb(7, 71, 101);
+}
+
+.index{
+    font-size: large;
+    color: rgb(192, 192, 13);
+}
+
+a{
+    color: rgb(12, 182, 182);
+}
+
+h2{
+    font-size: larger;
+    color: rgb(128, 11, 206);
+}
+
+ h3{
+    color: rgb(27, 163, 155);
+} 
+
+ul.ing{
+    color: rgb(29, 4, 112);
+}
+
+ol.steps{
+    color: rgb(27, 163, 155);
+}
